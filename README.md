@@ -7,9 +7,10 @@ To implement the given logic function using NAND and NOR gates and to verify its
 F=((C'.B.A)'(D'.C.A)'(C.B'.A)')' using NAND gate
 F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 ## Equipments Required:
-## Hardware – PCs, Cyclone II , USB flasher
-## Software – Quartus prime
-
+## Hardware 
+PCs, Cyclone II , USB flasher
+## Software 
+Quartus prime
 
 ## Theory
 Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output. 
